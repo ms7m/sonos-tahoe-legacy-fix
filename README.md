@@ -7,6 +7,10 @@ even when the firewall is disabled and the speakers are reachable.
 This script creates a patched copy of the app which bypasses only the faulty
 Tahoe-specific check. It does not modify `/Applications/Sonos.app`.
 
+## Note
+
+This is AI generated, but I hope this helps for someone.
+
 ## What it changes
 
 The affected app contains a method named
