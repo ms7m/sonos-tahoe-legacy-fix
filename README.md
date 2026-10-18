@@ -1,4 +1,3 @@
-# Sonos didn't properly fix it
 
 The Sonos desktop app for macOS 17.2.3 (build `90.0.79210`) can show a false
 “Your computer’s firewall setting has changed” screen on macOS Tahoe and later,
